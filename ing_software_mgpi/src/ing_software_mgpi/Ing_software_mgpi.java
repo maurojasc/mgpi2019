@@ -17,6 +17,8 @@ public class Ing_software_mgpi {
     public static void main(String[] args) {
         System.out.println("Proyecto conexion github netbeans");
         System.out.println("version1");
+        System.out.println("modificacion 1");
+        
     }
     
 }
