@@ -16,6 +16,8 @@ public class Proyecto_domingo {
      */
     public static void main(String[] args) {
         System.out.println("hoy es domingo");
+        System.out.println("modificacion desde github");
+        
     }
     
 }
